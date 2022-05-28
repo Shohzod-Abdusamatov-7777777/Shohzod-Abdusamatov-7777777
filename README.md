@@ -21,7 +21,7 @@
 <h3 align="center">
   <i>
     <samp>
-      > My Skills
+      > Skills
     </samp>
   </i>
 </h3>
